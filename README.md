@@ -40,4 +40,4 @@ model/emotion_model.h5
 - click view details button for any facilitator 
 - video or camera opens and detects emotion with green square
 - press q to quit or exit
-- as soon as you exit, analysis is shown on page# Student-Engagement
+- as soon as you exit, analysis is shown on page
